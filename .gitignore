@@ -1,0 +1,10 @@
+
+#Backend Env
+backend/env/
+backend/__pycache__/
+
+#ignore task tracking
+Tasks/
+
+
+backend/auth.json
